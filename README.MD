@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
+## DEPRECATED - This project is deprecated in favor of new [cross-platform Ana app](https://github.com/kitsune-tools/ana-app)
+
 World's first **Open Source Conversation Platform** which comes with a **Graphical Chat Flow Designer** and **Chat Simulator**.
 Supported channels are [Web Chat](https://github.com/Kitsune-tools/ANAChat-Web), [Android](https://github.com/Kitsune-tools/ANAChat-Android), [iOS](https://github.com/Kitsune-tools/ANAChat-iOS) and Facebook Messenger.
 
